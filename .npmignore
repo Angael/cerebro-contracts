@@ -7,3 +7,4 @@ docs
 yarn.lock
 jest.config.js
 .gitignore
+README.md
