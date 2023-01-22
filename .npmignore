@@ -1,0 +1,9 @@
+src
+.idea
+Dockerfile
+.dockerignore
+.github
+docs
+yarn.lock
+jest.config.js
+.gitignore
