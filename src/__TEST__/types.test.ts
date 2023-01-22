@@ -5,7 +5,6 @@ describe("types", () => {
     const item: FrontItem = {
       id: 2,
       type: "IMAGE",
-      gridSpan: "wide",
       thumbnail: "https://asd.com/pic.webp",
       icon: "https://asd.com/pic.webp",
       createdAt: new Date().toISOString(),
@@ -27,7 +26,6 @@ describe("types", () => {
     const item: FrontItem = {
       id: 2,
       type: "VIDEO",
-      gridSpan: "tall",
       thumbnail: "https://asd.com/pic.webp",
       icon: "https://asd.com/pic.webp",
       createdAt: new Date().toISOString(),

@@ -37,7 +37,7 @@
 
 #### Defined in
 
-[types.ts:22](https://github.com/Angael/cerebro-contracts/blob/e44cae5/src/types.ts#L22)
+[types.ts:22](https://github.com/Angael/cerebro-contracts/blob/f4ace2e/src/types.ts#L22)
 
 ___
 
@@ -47,7 +47,7 @@ ___
 
 #### Defined in
 
-[types.ts:43](https://github.com/Angael/cerebro-contracts/blob/e44cae5/src/types.ts#L43)
+[types.ts:43](https://github.com/Angael/cerebro-contracts/blob/f4ace2e/src/types.ts#L43)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[types.ts:15](https://github.com/Angael/cerebro-contracts/blob/e44cae5/src/types.ts#L15)
+[types.ts:15](https://github.com/Angael/cerebro-contracts/blob/f4ace2e/src/types.ts#L15)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[types.ts:33](https://github.com/Angael/cerebro-contracts/blob/e44cae5/src/types.ts#L33)
+[types.ts:33](https://github.com/Angael/cerebro-contracts/blob/f4ace2e/src/types.ts#L33)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[types.ts:7](https://github.com/Angael/cerebro-contracts/blob/e44cae5/src/types.ts#L7)
+[types.ts:7](https://github.com/Angael/cerebro-contracts/blob/f4ace2e/src/types.ts#L7)
 
 ___
 
@@ -106,7 +106,7 @@ ___
 
 #### Defined in
 
-[types.ts:38](https://github.com/Angael/cerebro-contracts/blob/e44cae5/src/types.ts#L38)
+[types.ts:38](https://github.com/Angael/cerebro-contracts/blob/f4ace2e/src/types.ts#L38)
 
 ## Variables
 
@@ -123,4 +123,4 @@ ___
 
 #### Defined in
 
-[types.ts:2](https://github.com/Angael/cerebro-contracts/blob/e44cae5/src/types.ts#L2)
+[types.ts:2](https://github.com/Angael/cerebro-contracts/blob/f4ace2e/src/types.ts#L2)
