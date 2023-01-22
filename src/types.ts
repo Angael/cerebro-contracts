@@ -32,12 +32,12 @@ export type BaseItem = {
 
 export type ImageItem = {
   type: typeof ItemType.IMAGE;
-  image?: ImageData;
+  image: ImageData;
 } & BaseItem;
 
 export type VideoItem = {
   type: typeof ItemType.VIDEO;
-  video?: VideoData;
+  video: VideoData;
 } & BaseItem;
 
 export type FrontItem = ImageItem | VideoItem;
