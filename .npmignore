@@ -1,4 +1,4 @@
-src
+__TEST__
 .idea
 Dockerfile
 .dockerignore
@@ -8,3 +8,4 @@ yarn.lock
 jest.config.js
 .gitignore
 README.md
+tsconfig.json

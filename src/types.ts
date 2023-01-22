@@ -25,7 +25,6 @@ export type BaseItem = {
   private: boolean;
   createdAt: string;
   size: number;
-  gridSpan: "wide" | "tall" | null;
 
   thumbnail: string | null;
   icon: string | null;
